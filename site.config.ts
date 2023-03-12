@@ -2,14 +2,14 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '9fc4005ace274416bf5d756d02c4700a',
+  rootNotionPageId: '5736fcdfe8654dde907599ae38f71a68',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
 
   // basic site info (required)
-  name: 'lizhimiao的博客',
+  name: '苏苏的博客',
   domain: 'lizhimiao.com',
   author: 'zhimiao li',
 
