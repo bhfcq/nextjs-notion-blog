@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
 
   // basic site info (required)
-  name: '苏苏的博客',
+  name: '白日梦与诗',
   domain: 'brmys1',
   author: '苏苏',
 
