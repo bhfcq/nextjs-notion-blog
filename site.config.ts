@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '苏苏的博客',
-  domain: 'lizhimiao.com',
+  domain: 'brmys1',
   author: 'zhimiao li',
 
   // open graph metadata (optional)
