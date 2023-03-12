@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
+  rootNotionSpaceId: "d96f14ec-2fd4-479d-8f87-4b79d2c8dfc2",
 
   // basic site info (required)
   name: '白日梦与诗',
@@ -17,9 +17,9 @@ export default siteConfig({
   description: '笔记、博客和其他记录',
 
   // social usernames (optional)
-  twitter: '_lizhimiao',
-  github: 'zhimiaoli',
-  linkedin: 'lizhimiao',
+  twitter: '',
+  github: '',
+  linkedin: '',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
