@@ -1,9 +1,9 @@
 {
-  "name": "lizhimiao的博客",
-  "short_name": "lizhimiao的博客",
+  "name": "susu的博客",
+  "short_name": "susu的博客",
   "icons": [
     {
-      "src": "/favicon.png",
+      "src": "/favicon.ico",
       "type": "image/png",
       "sizes": "32x32"
     },
