@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '白日梦与诗',
-  domain: 'brmys1',
+  domain: 'brmys',
   author: '苏苏',
 
   // open graph metadata (optional)
